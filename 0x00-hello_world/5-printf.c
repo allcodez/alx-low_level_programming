@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - C programm that prints a line using printf function
- * Return: 0 (NoError)
+ * main - C programm that prints a line using pprintf function
+ * Return: 0 (NoError);
  */
 int main(void)
 {
