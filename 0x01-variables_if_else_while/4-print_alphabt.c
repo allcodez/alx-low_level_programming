@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - prints lowercase 
+ * main - prints lowercase
  * Return:  0 (NoError)
  */
 int main(void)
