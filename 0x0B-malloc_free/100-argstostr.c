@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * argstostr - Function concatenates all arguments of the program into a string;
+ * argstostr - Function concatenates all arguments of the program into a str;
  *             arguments are separated by a new line in the string.
  * @ac: The number of arguments passed to the program.
  * @av: An array of pointers to the arguments.
