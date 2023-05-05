@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * flip_bits - Function counts the number of bits needed to be
- *             flipped to get from one number to another.
- * @n: The number.
- * @m: The number to flip n to.
+ * flip_bits -  func that returns the num of bits you would
+ *             need to flip to get from one num to another..
+ * @n: The num.
+ * @m: The num to flip n to.
  *
- * Return: The necessary number of bits to flip to get from n to m.
+ * Return: The necessary num of bits to flip to get from n to m.
  */
 unsigned int flip_bits(unsigned long int n, unsigned long int m)
 {
