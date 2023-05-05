@@ -2,7 +2,7 @@
 #define MAIN_H
 
 /*
- * Desc: Header file containing prototypes for all functions
+ * Desc: Header file containing prototypes for all func
  *       written in the 0x13-bit_manipulation directory.
  */
 
