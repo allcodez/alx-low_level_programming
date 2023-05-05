@@ -1,16 +1,16 @@
 #include "main.h"
 
 /**
- * binary_to_uint - function that sets the value of a bit to 1 at a given index.
+ * binary_to_uint - function that converts a binary number to an unsigned int.
  * @b: A pointer to a string of 0 and 1 chars.
  *
- * Return: If b is NULL or contains chars not 0 or 1 - 0.
- *         Otherwise - the converted number.
+ * Return: If b is NULL or contains chars ! 0 or 1 - 0.
+ *         Else - the converted num.
  */
 unsigned int binary_to_uint(const char *b)
 {
-	unsigned int num = 0;
 	int len = 0;
+	unsigned int num = 0;
 
 	if (b[len] == '\0')
 		return (0);
