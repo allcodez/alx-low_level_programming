@@ -1,1 +1,2 @@
-Pointers, arrays, strings
+0x18-dynamic_libraries
+
