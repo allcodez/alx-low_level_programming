@@ -1,0 +1,1 @@
+A Makefile is a file that defines a set of tasks to be executed. Typically, it is used to manage and automate the build process of a software project by specifying how various source code files should be compiled and linked to produce executable programs. It is not a command that creates a new shell window.
